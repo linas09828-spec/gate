@@ -51,7 +51,7 @@ DEFAULT_VPNGATE_API = "http://www.vpngate.net/api/iphone/"
 DEFAULT_VPNGATE_MIRROR = (
     "https://raw.githubusercontent.com/fdciabdul/Vpngate-Scraper-API/main/json/data.json"
 )
-DEFAULT_OPTIMAL_API = ""
+DEFAULT_OPTIMAL_API = "https://ip.jsnzkpg.ccwu.cc/edgetunnel/AE-AL-AM-AR-AT-AU-AZ-BE-BG-BR-BY-CA-CH-CL-CN-CY-CZ-DE-DK-DO-EE-EG-ES-FI-FR-GB-GE-GR-HK-HU-ID-IE-IL-IN-IS-IT-JP-KG-KR-KZ-LT-LV-MD-MX-MY-NG-NL-NO-NZ-PK-PL-PT-RO-RS-RU-SA-SE-SG-SK-TH-TR-TW-UA-US-VN-ZA-UNKNOWN?limit=1"
 
 # 占位符检测：命中任意一个就认为用户还没配置
 PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
